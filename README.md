@@ -8,3 +8,12 @@ In order to orient and motivate myself to learn how to use Vue.js, I set myself 
 For now, I am only using resources found on https://vueschool.io/, and I will simply be using this repository to document my progress as I move through the courses.
 
 I expect that I will find additional resources, and I plan to add them here as I work through them.
+
+```markdown
+ **Current list of resources:**
+ 
+- https://vuejs.org/
+- https://nuxtjs.org/
+- https://vueschool.io/
+
+```
