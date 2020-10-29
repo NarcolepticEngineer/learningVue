@@ -18,7 +18,7 @@ I expect that I will find additional resources, and I plan to add them here as I
 ```
 
 ```
- List of coding resources:
+ List of development resources:
  
 - https://classic.yarnpkg.com/en/
 - https://brew.sh/
