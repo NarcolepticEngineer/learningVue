@@ -10,9 +10,18 @@ For now, I am primarily working through free resources found on https://vueschoo
 I expect that I will find additional resources, and I plan to add them here as I work through them.
 
 ```
- Current list of resources:
+ List of learning resources:
  
 - https://vuejs.org/
 - https://nuxtjs.org/
 - https://vueschool.io/
+```
+
+```
+ List of coding resources:
+ 
+- https://classic.yarnpkg.com/en/
+- https://brew.sh/
+- https://nodejs.org/en/
+- https://www.npmjs.com/get-npm
 ```
